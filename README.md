@@ -1,6 +1,6 @@
 # Thomas Norden Blok Tech
 ## Inhoudsopgave
-1. Samenvatting (#Samenvatting)
+1. [Samenvatting] (#Samenvatting)
 2. Handleiding (#Handleiding)
 3. Gebruikte libraries (#Gebruikte libraries)
 4. Contributors (#Contributors)
