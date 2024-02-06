@@ -8,7 +8,9 @@
 - [License](#license)
 
 
+
 ## Samenvatting
+Dit is een samenvatting
 ## Handleiding
 ## Gebruikte libraries
 ## Contributors
